@@ -6,7 +6,7 @@ extends Node
 # var b = "text"
 var PositionMouseCalculed = Vector2()
 var ClickMouse = 0 #0 none, 1 izq, 2 der
-var Paused = false
+var Paused = true
 
 
 # Called when the node enters the scene tree for the first time.
